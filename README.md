@@ -20,5 +20,14 @@ Install marketplace in Claude Code CLI:
 /plugin install knowledgeworker-create@knowledgeworker-create
 ```
 
+## Codex CLI installation:
+
+In your terminal, run:
+
+```shell
+codex plugin marketplace add chemmedia/knowledgeworker-create-skills
+codex plugin add knowledgeworker-create@knowledgeworker-create
+```
+
 ## Learn more
 - [Knowledgeworker Create](https://www.knowledgeworker.com/)
