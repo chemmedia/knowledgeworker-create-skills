@@ -5,12 +5,12 @@
     "url": "https://www.chemmedia.de"
   },
   "metadata": {
-    "description": "Creating and manage learning content Knowledgeworker Create."
+    "description": "Create and manage learning content in Knowledgeworker Create."
   },
   "plugins": [
     {
       "name": "knowledgeworker-create",
-      "description": "Creating and manage learning content Knowledgeworker Create.",
+      "description": "Create and manage learning content in Knowledgeworker Create.",
       "source": "./",
       "skills": [
         "./skills/embedded-assets"
