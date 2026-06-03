@@ -5,9 +5,11 @@
   "description": "Creating and manage learning content Knowledgeworker Create.",
   "author": {
     "name": "chemmedia AG",
-    "url": "https://www.chemmedia.de"
+    "url": "https://www.chemmedia.de/"
   },
   "homepage": "https://github.com/chemmedia/knowledgeworker-create-skills",
   "repository": "https://github.com/chemmedia/knowledgeworker-create-skills",
-  "license": "MIT"
+  "skills": [
+    "./skills/embedded-assets"
+  ]
 }
