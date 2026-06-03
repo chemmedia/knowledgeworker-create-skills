@@ -2,7 +2,7 @@
   "name": "knowledgeworker-create",
   "displayName": "Knowledgeworker Create",
   "version": "0.0.1",
-  "description": "Creating and manage learning content Knowledgeworker Create.",
+  "description": "Create and manage learning content with Knowledgeworker Create.",
   "author": {
     "name": "chemmedia AG",
     "url": "https://www.chemmedia.de/"
