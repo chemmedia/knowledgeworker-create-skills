@@ -1,0 +1,13 @@
+{
+  "name": "knowledgeworker-create",
+  "displayName": "Knowledgeworker Create",
+  "version": "0.0.1",
+  "description": "Creating and manage learning content Knowledgeworker Create.",
+  "author": {
+    "name": "chemmedia AG",
+    "url": "https://www.chemmedia.de"
+  },
+  "homepage": "https://github.com/chemmedia/knowledgeworker-create-skills",
+  "repository": "https://github.com/chemmedia/knowledgeworker-create-skills",
+  "license": "MIT"
+}
