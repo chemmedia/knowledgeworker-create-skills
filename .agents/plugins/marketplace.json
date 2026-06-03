@@ -1,0 +1,20 @@
+{
+  "name": "knowledgeworker-create",
+  "interface": {
+    "displayName": "Knowledgeworker Create"
+  },
+  "plugins": [
+    {
+      "name": "knowledgeworker-create",
+      "source": {
+        "source": "local",
+        "path": "./plugins/knowledgeworker-create"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "knowledgeworker-create",
+  "version": "0.0.1",
+  "description": "Create and manage learning content for Knowledgeworker Create.",
+  "author": {
+    "name": "chemmedia AG",
+    "url": "https://www.chemmedia.de"
+  },
+  "homepage": "https://github.com/chemmedia/knowledgeworker-create-skills",
+  "repository": "https://github.com/chemmedia/knowledgeworker-create-skills",
+  "license": "MIT",
+  "keywords": [
+    "knowledgeworker",
+    "learning-content",
+    "embedded-assets",
+    "html5"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Knowledgeworker Create",
+    "shortDescription": "Create learning content and embedded assets for Knowledgeworker Create.",
+    "longDescription": "Skills for creating and working with learning content in Knowledgeworker Create, including HTML5 embedded assets and custom questions.",
+    "developerName": "chemmedia AG",
+    "category": "Productivity",
+    "capabilities": [
+      "Write",
+      "Code"
+    ],
+    "websiteURL": "https://www.knowledgeworker.com/",
+    "brandColor": "#4A70AD",
+    "defaultPrompt": [
+      "Create a Knowledgeworker embedded asset.",
+      "Build an HTML5 question package.",
+      "Help implement embedded asset runtime events."
+    ]
+  }
+}
